@@ -1,0 +1,14 @@
+.card-glance i{
+    font-size: 36px;
+    color: #777777;
+}
+.card-glance .col-md-4{
+    text-align: center;
+}
+.table-comments img{
+    max-width: 60px;
+}
+.table-comments a{
+    color: #777777;
+    padding: 0 10px;
+}
