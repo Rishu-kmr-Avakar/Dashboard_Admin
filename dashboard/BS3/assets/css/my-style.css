@@ -20,3 +20,25 @@
     border-radius: 50px;
     text-decoration: underline;
 }
+.card img{
+    max-width: 100%;
+    border-radius: 4px 4px 0 0;
+}
+.card-theme{
+    position: relative;
+}
+.card-theme .alert{
+    position: absolute;
+    border-radius: 1px;
+    width: 100%;
+    top: 18px;
+}
+.card-theme .footer{
+    padding: 20px;
+    margin: 10px;
+    border-top: 1px solid #777777;
+    margin: 1px;
+}
+.card-theme .footer .btn{
+    margin-left: 5px;
+}
